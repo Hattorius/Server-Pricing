@@ -2668,6 +2668,1022 @@
     }
   },
   {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#rise-s--amd-ryzen-7-9700x",
+    "cpu": "AMD Ryzen 7 9700X",
+    "cpuCores": 8,
+    "cpuThreads": 16,
+    "cpuBenchmark": 37308,
+    "cpuFrequencyGHz": 3.8,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 67.34,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 1024
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#rise-m--amd-ryzen-9-9900x",
+    "cpu": "AMD RYZEN 9 9900X",
+    "cpuCores": 12,
+    "cpuThreads": 24,
+    "cpuBenchmark": 54712,
+    "cpuFrequencyGHz": 4.4,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 103.19,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 1024
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#rise-l--amd-ryzen-9-9950x",
+    "cpu": "AMD RYZEN 9 9950X",
+    "cpuCores": 16,
+    "cpuThreads": 32,
+    "cpuBenchmark": 66089,
+    "cpuFrequencyGHz": 4.3,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 154.79,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 1920
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#rise-xl--amd-epyc-turin-9455",
+    "cpu": "AMD EPYC TURIN 9455",
+    "cpuCores": 48,
+    "cpuThreads": 96,
+    "cpuBenchmark": 44000,
+    "cpuFrequencyGHz": 3.15,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 309.58,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 3932
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-3--amd-epyc-4464p",
+    "cpu": "AMD EPYC 4464P",
+    "cpuCores": 12,
+    "cpuThreads": 24,
+    "cpuBenchmark": 48100,
+    "cpuFrequencyGHz": 3.7,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 175.78,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-1--amd-epyc-4244p",
+    "cpu": "AMD EPYC 4244P",
+    "cpuCores": 6,
+    "cpuThreads": 12,
+    "cpuBenchmark": 27900,
+    "cpuFrequencyGHz": 3.8,
+    "ramSizeGB": 32,
+    "priceMonthlyEUR": 93.57,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-stor--amd-epyc-4344p",
+    "cpu": "AMD EPYC 4344P",
+    "cpuCores": 8,
+    "cpuThreads": 16,
+    "cpuBenchmark": 35000,
+    "cpuFrequencyGHz": 3.8,
+    "ramSizeGB": 32,
+    "priceMonthlyEUR": 206.38,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-4--amd-epyc-4584px",
+    "cpu": "AMD EPYC 4584PX",
+    "cpuCores": 16,
+    "cpuThreads": 32,
+    "cpuBenchmark": 61400,
+    "cpuFrequencyGHz": 4.2,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 227.37,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-2--amd-epyc-4344p",
+    "cpu": "AMD EPYC 4344P",
+    "cpuCores": 8,
+    "cpuThreads": 16,
+    "cpuBenchmark": 35000,
+    "cpuFrequencyGHz": 3.8,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 129.43,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-5--amd-epyc-8224p",
+    "cpu": "AMD EPYC 8224P",
+    "cpuCores": 24,
+    "cpuThreads": 48,
+    "cpuBenchmark": 48600,
+    "cpuFrequencyGHz": 2.55,
+    "ramSizeGB": 96,
+    "priceMonthlyEUR": 299.96,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-1--amd-epyc-4245p",
+    "cpu": "AMD EPYC 4245P",
+    "cpuCores": 6,
+    "cpuThreads": 12,
+    "cpuBenchmark": 31075,
+    "cpuFrequencyGHz": 3.9,
+    "ramSizeGB": 32,
+    "priceMonthlyEUR": 108.44,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-2--amd-epyc-4345p",
+    "cpu": "AMD EPYC 4345P",
+    "cpuCores": 8,
+    "cpuThreads": 16,
+    "cpuBenchmark": 36144,
+    "cpuFrequencyGHz": 3.8,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 139.92,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-3--amd-epyc-4465p",
+    "cpu": "AMD EPYC 4465P",
+    "cpuCores": 12,
+    "cpuThreads": 24,
+    "cpuBenchmark": 49871,
+    "cpuFrequencyGHz": 3.4,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 206.38,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-4--amd-epyc-4585px",
+    "cpu": "AMD EPYC 4585PX",
+    "cpuCores": 16,
+    "cpuThreads": 32,
+    "cpuBenchmark": 68862,
+    "cpuFrequencyGHz": 4.3,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 248.36,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-stor--amd-epyc-4345p",
+    "cpu": "AMD EPYC 4345P",
+    "cpuCores": 8,
+    "cpuThreads": 16,
+    "cpuBenchmark": 37600,
+    "cpuFrequencyGHz": 3.8,
+    "ramSizeGB": 32,
+    "priceMonthlyEUR": 237.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#advance-5--intel-xeon-6527p",
+    "cpu": "INTEL XEON 6527P",
+    "cpuCores": 24,
+    "cpuThreads": 48,
+    "cpuBenchmark": 74500,
+    "cpuFrequencyGHz": 3,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 341.06,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#game-1--amd-ryzen-7-9800x3d",
+    "cpu": "AMD RYZEN 7 9800X3D",
+    "cpuCores": 8,
+    "cpuThreads": 16,
+    "cpuBenchmark": 40600,
+    "cpuFrequencyGHz": 4.7,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 145.17,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#game-2--amd-ryzen-9-9950x3d",
+    "cpu": "AMD RYZEN 9 9950X3D",
+    "cpuCores": 16,
+    "cpuThreads": 32,
+    "cpuBenchmark": 69700,
+    "cpuFrequencyGHz": 4.3,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 186.27,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-i1",
+    "cpu": "Intel Xeon Gold 6426Y",
+    "cpuCores": 16,
+    "cpuThreads": 32,
+    "cpuBenchmark": 44100,
+    "cpuFrequencyGHz": 2.5,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 382.16,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-i2",
+    "cpu": "Intel Xeon Gold 6442Y",
+    "cpuCores": 24,
+    "cpuThreads": 48,
+    "cpuBenchmark": 60200,
+    "cpuFrequencyGHz": 2.6,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 403.15,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-i3",
+    "cpu": "Intel Xeon Gold 6438M",
+    "cpuCores": 32,
+    "cpuThreads": 64,
+    "cpuBenchmark": 64900,
+    "cpuFrequencyGHz": 2.2,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 464.36,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a1",
+    "cpu": "AMD EPYC GENOA 9124",
+    "cpuCores": 16,
+    "cpuThreads": 32,
+    "cpuBenchmark": 45900,
+    "cpuFrequencyGHz": 3,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 382.16,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a2",
+    "cpu": "AMD EPYC GENOA 9254",
+    "cpuCores": 24,
+    "cpuThreads": 48,
+    "cpuBenchmark": 64000,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 403.15,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a3",
+    "cpu": "AMD EPYC GENOA 9354",
+    "cpuCores": 32,
+    "cpuThreads": 64,
+    "cpuBenchmark": 77800,
+    "cpuFrequencyGHz": 3.25,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 464.36,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a4",
+    "cpu": "AMD EPYC GENOA 9454",
+    "cpuCores": 48,
+    "cpuThreads": 96,
+    "cpuBenchmark": 93500,
+    "cpuFrequencyGHz": 2.75,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 474.86,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a5",
+    "cpu": "AMD EPYC GENOA 9554",
+    "cpuCores": 64,
+    "cpuThreads": 128,
+    "cpuBenchmark": 108000,
+    "cpuFrequencyGHz": 3.1,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 557.94,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a6",
+    "cpu": "AMD EPYC GENOA 9654",
+    "cpuCores": 96,
+    "cpuThreads": 192,
+    "cpuBenchmark": 118000,
+    "cpuFrequencyGHz": 2.4,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 650.64,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a7--amd-epyc-9755",
+    "cpu": "AMD EPYC TURIN 9755",
+    "cpuCores": 128,
+    "cpuThreads": 256,
+    "cpuBenchmark": 155000,
+    "cpuFrequencyGHz": 2.7,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 857.02,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a8--amd-epyc-9965",
+    "cpu": "AMD EPYC TURIN 9965",
+    "cpuCores": 192,
+    "cpuThreads": 384,
+    "cpuBenchmark": 157000,
+    "cpuFrequencyGHz": 2.25,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-gpu-1",
+    "cpu": "AMD EPYC GENOA 9124",
+    "cpuCores": 16,
+    "cpuThreads": 32,
+    "cpuBenchmark": 77900,
+    "cpuFrequencyGHz": 3,
+    "ramSizeGB": 192,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-gpu-2",
+    "cpu": "AMD EPYC GENOA 9254",
+    "cpuCores": 24,
+    "cpuThreads": 48,
+    "cpuBenchmark": 93500,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 192,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-gpu-3",
+    "cpu": "AMD EPYC GENOA 9554",
+    "cpuCores": 32,
+    "cpuThreads": 64,
+    "cpuBenchmark": 108000,
+    "cpuFrequencyGHz": 3.25,
+    "ramSizeGB": 192,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a9--dual-amd-epyc-9965",
+    "cpu": "AMD EPYC TURIN 9965 2x192 c",
+    "cpuBenchmark": 187500,
+    "cpuFrequencyGHz": 2.25,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a1--amd-epyc-9135",
+    "cpu": "AMD EPYC 9135",
+    "cpuCores": 16,
+    "cpuThreads": 32,
+    "cpuBenchmark": 58000,
+    "cpuFrequencyGHz": 3.65,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 423.26,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a2--amd-epyc-9255",
+    "cpu": "AMD EPYC 9255",
+    "cpuCores": 24,
+    "cpuThreads": 48,
+    "cpuBenchmark": 75100,
+    "cpuFrequencyGHz": 3.2,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 454.75,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a3--amd-epyc-9355",
+    "cpu": "AMD EPYC 9355",
+    "cpuCores": 32,
+    "cpuThreads": 64,
+    "cpuBenchmark": 96800,
+    "cpuFrequencyGHz": 3.55,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 515.96,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a4--amd-epyc-9455",
+    "cpu": "AMD EPYC 9455",
+    "cpuCores": 48,
+    "cpuThreads": 96,
+    "cpuBenchmark": 116000,
+    "cpuFrequencyGHz": 3.15,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 567.56,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a5--amd-epyc-9555",
+    "cpu": "AMD EPYC 9555",
+    "cpuCores": 64,
+    "cpuThreads": 128,
+    "cpuBenchmark": 135000,
+    "cpuFrequencyGHz": 3.2,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 661.13,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-a6--amd-epyc-9655",
+    "cpu": "AMD EPYC 9655",
+    "cpuCores": 96,
+    "cpuThreads": 192,
+    "cpuBenchmark": 138000,
+    "cpuFrequencyGHz": 2.6,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 753.83,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-i1--xeon-6517p",
+    "cpu": "Intel Xeon 6517P",
+    "cpuCores": 16,
+    "cpuThreads": 32,
+    "cpuBenchmark": 53000,
+    "cpuFrequencyGHz": 3.2,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 423.26,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-i2--xeon-6527p",
+    "cpu": "Intel Xeon 6527P",
+    "cpuCores": 24,
+    "cpuThreads": 48,
+    "cpuBenchmark": 74600,
+    "cpuFrequencyGHz": 3,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 454.75,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#scale-i3--xeon-6737p",
+    "cpu": "Intel Xeon 6737P",
+    "cpuCores": 32,
+    "cpuThreads": 64,
+    "cpuBenchmark": 86000,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 515.96,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-stor-1",
+    "cpu": "Intel Xeon Gold 6554S",
+    "cpuCores": 36,
+    "cpuThreads": 72,
+    "cpuBenchmark": 75700,
+    "cpuFrequencyGHz": 2.2,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-sds-2",
+    "cpu": "Intel Xeon Gold 6542Y 2x24 c",
+    "cpuBenchmark": 102000,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-sds-1",
+    "cpu": "Intel Xeon Gold 5515+ 2x8 c",
+    "cpuBenchmark": 47800,
+    "cpuFrequencyGHz": 3.2,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-sap-1",
+    "cpu": "Intel Xeon Gold 6226R 2x16 c",
+    "cpuBenchmark": 48100,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 192,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-sap-2",
+    "cpu": "Intel Xeon Gold 6242R 2x20 c",
+    "cpuBenchmark": 59600,
+    "cpuFrequencyGHz": 3.1,
+    "ramSizeGB": 384,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-sap-3",
+    "cpu": "Intel Xeon Gold 6248R 2x24 c",
+    "cpuBenchmark": 63200,
+    "cpuFrequencyGHz": 3,
+    "ramSizeGB": 768,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-ai-2",
+    "cpu": "AMD Epyc 9354 2x32 c",
+    "cpuBenchmark": 114000,
+    "cpuFrequencyGHz": 3.25,
+    "ramSizeGB": 384,
+    "priceMonthlyEUR": 2.62,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-a1",
+    "cpu": "AMD Epyc 9254 2x24 c",
+    "cpuBenchmark": 100000,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-a2",
+    "cpu": "AMD Epyc 9354 2x32 c",
+    "cpuBenchmark": 114000,
+    "cpuFrequencyGHz": 3.25,
+    "ramSizeGB": 384,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-i1",
+    "cpu": "Intel Xeon Gold 5515+ 2x8 c",
+    "cpuBenchmark": 47800,
+    "cpuFrequencyGHz": 3.2,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-i2",
+    "cpu": "Intel Xeon Gold 6526Y 2x16 c",
+    "cpuBenchmark": 76500,
+    "cpuFrequencyGHz": 2.8,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-i3",
+    "cpu": "Intel Xeon Gold 6542Y 2x24 c",
+    "cpuBenchmark": 102000,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-i4",
+    "cpu": "Intel Xeon Gold 6554S 2x36 c",
+    "cpuBenchmark": 116000,
+    "cpuFrequencyGHz": 2.2,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-i1--intel-xeon-6517p",
+    "cpu": "Intel Xeon 6517P 2x16 c",
+    "cpuBenchmark": 88000,
+    "cpuFrequencyGHz": 2.6,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-i2--intel-xeon-6527p",
+    "cpu": "Intel Xeon 6527P 2x24 c",
+    "cpuBenchmark": 115000,
+    "cpuFrequencyGHz": 3,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-a1--amd-epyc-9255",
+    "cpu": "AMD EPYC 9255 2x24 c",
+    "cpuBenchmark": 72000,
+    "cpuFrequencyGHz": 3.2,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-a2--amd-epyc-9355",
+    "cpu": "AMD EPYC 9355 2x32 c",
+    "cpuBenchmark": 146000,
+    "cpuFrequencyGHz": 3.55,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-a3--amd-epyc-9555",
+    "cpu": "AMD EPYC 9555 2x64 c",
+    "cpuBenchmark": 169000,
+    "cpuFrequencyGHz": 3.55,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 0.87,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-hci-a4--amd-epyc-9655",
+    "cpu": "AMD EPYC 9655 2x96 c",
+    "cpuBenchmark": 198000,
+    "cpuFrequencyGHz": 2.6,
+    "ramSizeGB": 384,
+    "priceMonthlyEUR": 1.75,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "ovhcloud",
+    "link": "https://www.ovhcloud.com/en/bare-metal/prices/#hgr-stor-2--amd-epyc-9355",
+    "cpu": "AMD EPYC 9355",
+    "cpuCores": 32,
+    "cpuThreads": 64,
+    "cpuBenchmark": 96800,
+    "cpuFrequencyGHz": 3.55,
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 1.75,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
     "provider": "racknerd",
     "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=4",
     "cpu": "Dual Xeon E5-2690 2x 2.90 GHz",

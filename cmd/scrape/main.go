@@ -9,6 +9,7 @@ import (
 	"github.com/Hattorius/Server-Pricing/internal/hetzner"
 	hetznerauction "github.com/Hattorius/Server-Pricing/internal/hetzner_auction"
 	"github.com/Hattorius/Server-Pricing/internal/netcup"
+	"github.com/Hattorius/Server-Pricing/internal/ovhcloud"
 	"github.com/Hattorius/Server-Pricing/internal/racknerd"
 )
 
@@ -19,6 +20,7 @@ func main() {
 		hetzner.Scraper{},
 		hetznerauction.Scraper{},
 		netcup.Scraper{},
+		ovhcloud.Scraper{},
 		racknerd.Scraper{},
 	}
 
