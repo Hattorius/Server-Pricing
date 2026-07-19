@@ -536,90 +536,6 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3039738",
-    "cpu": "Intel Core i7-6700",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 54.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 4000,
-      "ssd": 0,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3039697",
-    "cpu": "Intel Core i7-7700",
-    "cpuCores": 1,
-    "ramSizeGB": 32,
-    "priceMonthlyEUR": 54.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 8000,
-      "ssd": 0,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3039635",
-    "cpu": "Intel Core i7-6700",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 55.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 0,
-      "nvme": 1024
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3039937",
-    "cpu": "Intel Core i7-7700",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 55.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 512,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3040198",
-    "cpu": "Intel Core i7-6700",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 55.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 1000,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3040096",
-    "cpu": "Intel Core i7-6700",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 55.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 1024,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3040309",
     "cpu": "Intel Core i7-6700",
     "cpuCores": 1,
@@ -676,7 +592,7 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3040115",
+    "link": "https://www.hetzner.com/sb/#search=3040170",
     "cpu": "Intel Core i7-7700",
     "cpuCores": 1,
     "ramSizeGB": 64,
@@ -686,6 +602,20 @@
       "hdd": 0,
       "ssd": 0,
       "nvme": 1024
+    }
+  },
+  {
+    "provider": "hetzner_auction",
+    "link": "https://www.hetzner.com/sb/#search=3039097",
+    "cpu": "Intel Core i7-7700",
+    "cpuCores": 1,
+    "ramSizeGB": 32,
+    "priceMonthlyEUR": 55.7,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 8000,
+      "ssd": 0,
+      "nvme": 0
     }
   },
   {
@@ -704,6 +634,20 @@
   },
   {
     "provider": "hetzner_auction",
+    "link": "https://www.hetzner.com/sb/#search=3040267",
+    "cpu": "Intel Core i7-6700",
+    "cpuCores": 1,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 55.7,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 1024
+    }
+  },
+  {
+    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3040490",
     "cpu": "Intel Core i7-6700",
     "cpuCores": 1,
@@ -713,6 +657,20 @@
     "diskSizeGB": {
       "hdd": 0,
       "ssd": 512,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "hetzner_auction",
+    "link": "https://www.hetzner.com/sb/#search=3040065",
+    "cpu": "Intel Core i7-7700",
+    "cpuCores": 1,
+    "ramSizeGB": 32,
+    "priceMonthlyEUR": 55.7,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 1024,
       "nvme": 0
     }
   },
@@ -741,20 +699,6 @@
     "diskSizeGB": {
       "hdd": 0,
       "ssd": 512,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3040065",
-    "cpu": "Intel Core i7-7700",
-    "cpuCores": 1,
-    "ramSizeGB": 32,
-    "priceMonthlyEUR": 56.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 1024,
       "nvme": 0
     }
   },
@@ -844,7 +788,7 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3040333",
+    "link": "https://www.hetzner.com/sb/#search=3040264",
     "cpu": "Intel Core i7-7700",
     "cpuCores": 1,
     "ramSizeGB": 64,
@@ -886,6 +830,20 @@
   },
   {
     "provider": "hetzner_auction",
+    "link": "https://www.hetzner.com/sb/#search=3039985",
+    "cpu": "AMD Ryzen 5 3600",
+    "cpuCores": 1,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 56.7,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 4000,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3040439",
     "cpu": "Intel Core i7-7700",
     "cpuCores": 1,
@@ -896,20 +854,6 @@
       "hdd": 0,
       "ssd": 0,
       "nvme": 1024
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3039758",
-    "cpu": "AMD Ryzen 5 3600",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 56.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 4000,
-      "ssd": 0,
-      "nvme": 0
     }
   },
   {
@@ -964,20 +908,6 @@
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 4000,
-      "ssd": 0,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3037916",
-    "cpu": "Intel Xeon E3-1275V6",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 58.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 8000,
       "ssd": 0,
       "nvme": 0
     }
@@ -1128,7 +1058,7 @@
     "cpu": "Intel Core i7-8700",
     "cpuCores": 1,
     "ramSizeGB": 64,
-    "priceMonthlyEUR": 68.7,
+    "priceMonthlyEUR": 67.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 12000,
@@ -1292,7 +1222,7 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3027373",
+    "link": "https://www.hetzner.com/sb/#search=3024651",
     "cpu": "Intel Core i7-7700",
     "cpuCores": 1,
     "ramSizeGB": 64,
@@ -1310,7 +1240,7 @@
     "cpu": "Intel Core i7-6700",
     "cpuCores": 1,
     "ramSizeGB": 64,
-    "priceMonthlyEUR": 76.7,
+    "priceMonthlyEUR": 75.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -1586,11 +1516,11 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3035901",
+    "link": "https://www.hetzner.com/sb/#search=3036490",
     "cpu": "AMD Ryzen 7 7700",
     "cpuCores": 1,
     "ramSizeGB": 64,
-    "priceMonthlyEUR": 90.7,
+    "priceMonthlyEUR": 91.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -1679,20 +1609,6 @@
     "diskSizeGB": {
       "hdd": 0,
       "ssd": 960,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3039426",
-    "cpu": "Intel Xeon E5-1650V3",
-    "cpuCores": 1,
-    "ramSizeGB": 256,
-    "priceMonthlyEUR": 95.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 8000,
-      "ssd": 0,
       "nvme": 0
     }
   },
@@ -1814,7 +1730,7 @@
     "cpu": "Intel Xeon E5-1650V3",
     "cpuCores": 1,
     "ramSizeGB": 128,
-    "priceMonthlyEUR": 101.7,
+    "priceMonthlyEUR": 100.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 6000,
@@ -1936,20 +1852,6 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3038419",
-    "cpu": "Intel Core i9-13900",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 107.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 0,
-      "nvme": 3840
-    }
-  },
-  {
-    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3024184",
     "cpu": "Intel Core i7-7700",
     "cpuCores": 1,
@@ -1978,20 +1880,6 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3038397",
-    "cpu": "Intel Core i9-13900",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 110.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 0,
-      "nvme": 3840
-    }
-  },
-  {
-    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3025509",
     "cpu": "Intel Core i7-6700",
     "cpuCores": 1,
@@ -2002,20 +1890,6 @@
       "hdd": 0,
       "ssd": 2024,
       "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3040193",
-    "cpu": "Intel Core i9-13900",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 111.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 0,
-      "nvme": 3840
     }
   },
   {
@@ -2048,20 +1922,6 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3035844",
-    "cpu": "AMD Ryzen 5 3600",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 116.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 64000,
-      "ssd": 0,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3038478",
     "cpu": "Intel Core i7-7700",
     "cpuCores": 1,
@@ -2071,6 +1931,20 @@
     "diskSizeGB": {
       "hdd": 0,
       "ssd": 1000,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "hetzner_auction",
+    "link": "https://www.hetzner.com/sb/#search=3036168",
+    "cpu": "AMD Ryzen 5 3600",
+    "cpuCores": 1,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 116.7,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 64000,
+      "ssd": 0,
       "nvme": 0
     }
   },
@@ -2132,25 +2006,11 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3039394",
-    "cpu": "AMD Ryzen 7 7700",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 125.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 0,
-      "nvme": 2000
-    }
-  },
-  {
-    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3040155",
     "cpu": "Intel Xeon W-2145",
     "cpuCores": 1,
     "ramSizeGB": 128,
-    "priceMonthlyEUR": 129.7,
+    "priceMonthlyEUR": 128.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -2206,7 +2066,7 @@
     "cpu": "AMD Ryzen 7 7700",
     "cpuCores": 1,
     "ramSizeGB": 128,
-    "priceMonthlyEUR": 134.7,
+    "priceMonthlyEUR": 133.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -2262,7 +2122,7 @@
     "cpu": "AMD Ryzen 7 3700X",
     "cpuCores": 1,
     "ramSizeGB": 128,
-    "priceMonthlyEUR": 137.7,
+    "priceMonthlyEUR": 136.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -2402,7 +2262,7 @@
     "cpu": "Intel Xeon W-2145",
     "cpuCores": 1,
     "ramSizeGB": 128,
-    "priceMonthlyEUR": 153.7,
+    "priceMonthlyEUR": 152.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -2444,7 +2304,7 @@
     "cpu": "Intel Xeon E5-1650V3",
     "cpuCores": 1,
     "ramSizeGB": 64,
-    "priceMonthlyEUR": 156.7,
+    "priceMonthlyEUR": 155.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -2510,20 +2370,6 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3040373",
-    "cpu": "Intel Core i9-13900",
-    "cpuCores": 1,
-    "ramSizeGB": 128,
-    "priceMonthlyEUR": 167.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 0,
-      "nvme": 3840
-    }
-  },
-  {
-    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3038802",
     "cpu": "Intel Xeon W-2295",
     "cpuCores": 1,
@@ -2538,7 +2384,7 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3040300",
+    "link": "https://www.hetzner.com/sb/#search=3040292",
     "cpu": "AMD Ryzen 9 5950X",
     "cpuCores": 1,
     "ramSizeGB": 128,
@@ -2556,26 +2402,12 @@
     "cpu": "Intel Core i9-13900",
     "cpuCores": 1,
     "ramSizeGB": 128,
-    "priceMonthlyEUR": 199.7,
+    "priceMonthlyEUR": 198.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
       "ssd": 0,
       "nvme": 3840
-    }
-  },
-  {
-    "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3038479",
-    "cpu": "Intel Xeon W-2145",
-    "cpuCores": 1,
-    "ramSizeGB": 256,
-    "priceMonthlyEUR": 201.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 20000,
-      "ssd": 0,
-      "nvme": 960
     }
   },
   {
@@ -2668,7 +2500,7 @@
     "cpu": "AMD EPYC 7502P",
     "cpuCores": 1,
     "ramSizeGB": 128,
-    "priceMonthlyEUR": 269.7,
+    "priceMonthlyEUR": 268.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -2710,7 +2542,7 @@
     "cpu": "AMD EPYC 7401P",
     "cpuCores": 1,
     "ramSizeGB": 512,
-    "priceMonthlyEUR": 529.7,
+    "priceMonthlyEUR": 528.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -2752,7 +2584,7 @@
     "cpu": "Intel Xeon Gold 5412U",
     "cpuCores": 1,
     "ramSizeGB": 128,
-    "priceMonthlyEUR": 650.7,
+    "priceMonthlyEUR": 649.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -2833,6 +2665,238 @@
       "hdd": 0,
       "ssd": 0,
       "nvme": 4096
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=4",
+    "cpu": "Dual Xeon E5-2690 2x 2.90 GHz",
+    "cpuCores": 2,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 4,
+    "priceMonthlyEUR": 34.11,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 120,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=5",
+    "cpu": "Dual Xeon E5-2690 4x 2.90 GHz",
+    "cpuCores": 4,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 8,
+    "priceMonthlyEUR": 51.6,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 250,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=6",
+    "cpu": "Dual Xeon E5-2690 6x 2.90 GHz",
+    "cpuCores": 6,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 16,
+    "priceMonthlyEUR": 69.09,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 500,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=7",
+    "cpu": "Dual Xeon E5-2690 8x 2.90 GHz",
+    "cpuCores": 8,
+    "cpuFrequencyGHz": 2.9,
+    "ramSizeGB": 32,
+    "priceMonthlyEUR": 86.58,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 750,
+      "ssd": 0,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=12",
+    "cpu": "Intel Xeon E3-1230 v2",
+    "ramSizeGB": 16,
+    "priceMonthlyEUR": 121.56,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 480,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=869",
+    "cpu": "Intel Xeon E3-1270 v3",
+    "ramSizeGB": 32,
+    "priceMonthlyEUR": 147.79,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 2048,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=867",
+    "cpu": "Dual Intel Xeon E5-2650 v2",
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 174.03,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 1024,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=871",
+    "cpu": "Dual Intel Xeon E5-2650 v2",
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 214.25,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 3072,
+      "ssd": 1024,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=868",
+    "cpu": "Dual Intel Xeon E5-2650 v2",
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 305.2,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 8192,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=870",
+    "cpu": "Dual Intel Xeon E5-2680 v4",
+    "ramSizeGB": 256,
+    "priceMonthlyEUR": 348.93,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 8192,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=526",
+    "cpu": "Dual Intel Xeon E5-2640 v2",
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 418.89,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 163840,
+      "ssd": 256,
+      "nvme": 0
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=863",
+    "cpu": "AMD Ryzen 9 5950X",
+    "cpuCores": 5950,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 270.22,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 2048
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=861",
+    "cpu": "AMD Ryzen 5 7600",
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 191.52,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 1024
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=862",
+    "cpu": "AMD Ryzen 7 7700",
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 217.75,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 1024
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=864",
+    "cpu": "AMD Ryzen 9 7900",
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 235.24,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 1024
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=865",
+    "cpu": "AMD Ryzen 9 7950X3D",
+    "cpuCores": 7950,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 331.44,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 1024
+    }
+  },
+  {
+    "provider": "racknerd",
+    "link": "https://my.racknerd.com/cart.php?a=add\u0026pid=866",
+    "cpu": "AMD Ryzen 9 7950X3D",
+    "cpuCores": 7950,
+    "ramSizeGB": 192,
+    "priceMonthlyEUR": 436.38,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 7864
     }
   }
 ]
