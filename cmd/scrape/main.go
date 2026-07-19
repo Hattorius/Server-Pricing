@@ -8,6 +8,7 @@ import (
 	"github.com/Hattorius/Server-Pricing/internal/data"
 	"github.com/Hattorius/Server-Pricing/internal/hetzner"
 	hetznerauction "github.com/Hattorius/Server-Pricing/internal/hetzner_auction"
+	"github.com/Hattorius/Server-Pricing/internal/netcup"
 )
 
 func main() {
@@ -16,6 +17,7 @@ func main() {
 	scrapers := []data.Scraper{
 		hetzner.Scraper{},
 		hetznerauction.Scraper{},
+		netcup.Scraper{},
 	}
 
 	servers := make([]data.Server, 0)

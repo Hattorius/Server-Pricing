@@ -550,20 +550,6 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3039702",
-    "cpu": "Intel Core i7-7700",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 54.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 512,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3039697",
     "cpu": "Intel Core i7-7700",
     "cpuCores": 1,
@@ -588,6 +574,20 @@
       "hdd": 0,
       "ssd": 0,
       "nvme": 1024
+    }
+  },
+  {
+    "provider": "hetzner_auction",
+    "link": "https://www.hetzner.com/sb/#search=3039937",
+    "cpu": "Intel Core i7-7700",
+    "cpuCores": 1,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 55.7,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 512,
+      "nvme": 0
     }
   },
   {
@@ -774,20 +774,6 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3038031",
-    "cpu": "AMD Ryzen 5 3600",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 56.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 4000,
-      "ssd": 0,
-      "nvme": 0
-    }
-  },
-  {
-    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3039864",
     "cpu": "Intel Core i7-7700",
     "cpuCores": 1,
@@ -868,6 +854,20 @@
       "hdd": 0,
       "ssd": 0,
       "nvme": 1024
+    }
+  },
+  {
+    "provider": "hetzner_auction",
+    "link": "https://www.hetzner.com/sb/#search=3039878",
+    "cpu": "AMD Ryzen 5 3600",
+    "cpuCores": 1,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 56.7,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 4000,
+      "ssd": 0,
+      "nvme": 0
     }
   },
   {
@@ -1712,20 +1712,6 @@
   },
   {
     "provider": "hetzner_auction",
-    "link": "https://www.hetzner.com/sb/#search=3039846",
-    "cpu": "AMD Ryzen 7 3700X",
-    "cpuCores": 1,
-    "ramSizeGB": 64,
-    "priceMonthlyEUR": 96.7,
-    "setupPriceEUR": 0,
-    "diskSizeGB": {
-      "hdd": 0,
-      "ssd": 0,
-      "nvme": 2000
-    }
-  },
-  {
-    "provider": "hetzner_auction",
     "link": "https://www.hetzner.com/sb/#search=3040031",
     "cpu": "AMD Ryzen 7 3700X",
     "cpuCores": 1,
@@ -1750,6 +1736,20 @@
       "hdd": 20000,
       "ssd": 0,
       "nvme": 1024
+    }
+  },
+  {
+    "provider": "hetzner_auction",
+    "link": "https://www.hetzner.com/sb/#search=3040219",
+    "cpu": "AMD Ryzen 7 3700X",
+    "cpuCores": 1,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 98.7,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 2000
     }
   },
   {
@@ -2738,7 +2738,7 @@
     "cpu": "Intel Xeon Gold 5412U",
     "cpuCores": 1,
     "ramSizeGB": 128,
-    "priceMonthlyEUR": 626.7,
+    "priceMonthlyEUR": 625.7,
     "setupPriceEUR": 0,
     "diskSizeGB": {
       "hdd": 0,
@@ -2758,6 +2758,81 @@
       "hdd": 0,
       "ssd": 0,
       "nvme": 3840
+    }
+  },
+  {
+    "provider": "netcup",
+    "link": "https://www.netcup.com/en/server/root-server/rs-2000-g12-ip-iv-12m",
+    "cpu": "AMD EPYC 9645",
+    "cpuCores": 8,
+    "cpuFrequencyGHz": 3.7,
+    "ramSizeGB": 16,
+    "priceMonthlyEUR": 21.58,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 512
+    }
+  },
+  {
+    "provider": "netcup",
+    "link": "https://www.netcup.com/en/server/root-server/rs-4000-g12-ip-iv-12m",
+    "cpu": "AMD EPYC 9645",
+    "cpuCores": 12,
+    "cpuFrequencyGHz": 3.7,
+    "ramSizeGB": 32,
+    "priceMonthlyEUR": 40.31,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 1024
+    }
+  },
+  {
+    "provider": "netcup",
+    "link": "https://www.netcup.com/en/server/root-server/rs-8000-g12-ip-iv-12m",
+    "cpu": "AMD EPYC 9645",
+    "cpuCores": 16,
+    "cpuFrequencyGHz": 3.7,
+    "ramSizeGB": 64,
+    "priceMonthlyEUR": 72.14,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 2048
+    }
+  },
+  {
+    "provider": "netcup",
+    "link": "https://www.netcup.com/en/server/root-server/rs-12000-g12-ip-iv-12m",
+    "cpu": "AMD EPYC 9645",
+    "cpuCores": 20,
+    "cpuFrequencyGHz": 3.7,
+    "ramSizeGB": 96,
+    "priceMonthlyEUR": 103.97,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 3072
+    }
+  },
+  {
+    "provider": "netcup",
+    "link": "https://www.netcup.com/en/server/root-server/rs-16000-g12-ip-iv-12m",
+    "cpu": "AMD EPYC 9645",
+    "cpuCores": 24,
+    "cpuFrequencyGHz": 3.7,
+    "ramSizeGB": 128,
+    "priceMonthlyEUR": 146.43,
+    "setupPriceEUR": 0,
+    "diskSizeGB": {
+      "hdd": 0,
+      "ssd": 0,
+      "nvme": 4096
     }
   }
 ]
